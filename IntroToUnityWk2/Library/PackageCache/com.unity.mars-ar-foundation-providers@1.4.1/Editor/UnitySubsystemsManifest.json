@@ -1,0 +1,20 @@
+{
+    "name": "MARS XR Plugin",
+    "version": "0.1.0-preview.1",
+    "libraryName": "MARSXRSubsystem",
+    "displays": [
+        {
+            "id": "MARS Display"
+        }
+    ],
+    "inputs": [
+        {
+            "id": "MARS Head Tracking"
+        }
+    ],
+    "meshings": [
+        {
+            "id": "MARS Meshing"
+        }
+    ]
+}

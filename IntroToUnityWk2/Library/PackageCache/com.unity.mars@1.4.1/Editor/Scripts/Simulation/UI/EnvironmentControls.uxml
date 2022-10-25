@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <UnityEditor.MARS.UIElements.SimulationModeField label="Mode" name="mode" tooltip="The Simulation Mode changes how Simulation behaves.&#10;&#10;Choose &apos;Synthetic Environment&apos; for working with modeled environments.&#10;&#10;Choose &apos;Recordings&apos; for testing against recorded data (recorded video or recordings of synthetic environments).&#10;&#10;Choose &apos;Video Feed&apos; for testing against live video data (not available for all AR functionality.&quot;">
+        <Style src="EnvironmentControls.uss" />
+    </UnityEditor.MARS.UIElements.SimulationModeField>
+    <UnityEditor.MARS.UIElements.SimulationEnvironmentField label="Source" name="source" tooltip="The selected source for Simulation.">
+        <Style src="EnvironmentControls.uss" />
+    </UnityEditor.MARS.UIElements.SimulationEnvironmentField>
+    <ui:Button text="Open Timeline" name="openTimeline" tooltip="Open session recording Timeline." style="margin-left: 93px;">
+        <Style src="EnvironmentControls.uss" />
+    </ui:Button>
+</ui:UXML>

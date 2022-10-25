@@ -1,0 +1,7 @@
+SimulationModeField Label {
+    min-width: 90px;
+}
+
+SimulationEnvironmentField Label {
+    min-width: 90px;
+}

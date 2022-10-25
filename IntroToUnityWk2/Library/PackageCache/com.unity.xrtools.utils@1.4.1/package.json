@@ -1,0 +1,17 @@
+{
+  "name": "com.unity.xrtools.utils",
+  "displayName": "XR Tools Utilities",
+  "version": "1.4.1",
+  "unity": "2018.4",
+  "unityRelease": "20f1",
+  "description": "Common utility classes for XR Tools projects\nRefer to API documentation for details. Some particularly useful utilities include:\n▪ Geometry Utilities\n  ▪ Point of closest approach\n  ▪ Closest edge of a polygon\n  ▪ Check if point inside of polygon\n  ▪ Compute 2D convex hull\n▪ Collection pool\n▪ Math Utilities\n  ▪ Bounds extensions\n  ▪ Quaternion extensions\n▪ Editor GUI\n  ▪ Flags Property Drawer\n▪ Scriptable Settings (serialized project settings)\n▪ Conditional Compilation Utility",
+  "type": "library",
+  "upmCi": {
+    "footprint": "bee44743da9d5840e0b7fa9fa22c61541296e44e"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.xr.core-utils.git",
+    "type": "git",
+    "revision": "cddd45a27168fde5f7a5934688f9df9b07472552"
+  }
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6efcb252d9aa8b244a5cfd1e865be2ed, type: 3}
+  m_Name: UrpUtilitiesTestSettings
+  m_EditorClassIdentifier: 
+  m_PipelineDoesNotHaveFeature: {fileID: 11400000, guid: b79021cbee8ba3e4690f4cae69eca14c,
+    type: 2}
+  m_PipelineHasFeature: {fileID: 11400000, guid: 2d8661250f8748042ad9fed95e084d5e,
+    type: 2}
+  m_PipelineModification: {fileID: 11400000, guid: c742f8a4e2d47de47ae913fc7bae0b68,
+    type: 2}
+  m_FindScriptableRendererAsset: {fileID: 11400000, guid: 333fd9cf549c05140809241f0744f56d,
+    type: 2}

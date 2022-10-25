@@ -1,0 +1,35 @@
+{
+    "name": "Unity.MARS.XRSubsystem",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "Unity.MARS",
+        "Unity.XR.ARSubsystems",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "2.1",
+            "define": "ARFOUNDATION_2_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "3.0.1",
+            "define": "ARFOUNDATION_3_0_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.0.0",
+            "define": "MODULE_URP_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

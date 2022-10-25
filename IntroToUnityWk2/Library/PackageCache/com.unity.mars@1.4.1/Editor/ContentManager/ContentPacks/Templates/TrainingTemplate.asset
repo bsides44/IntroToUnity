@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36a03cc179e4d42a247ee25fcb5896, type: 3}
+  m_Name: TrainingTemplate
+  m_EditorClassIdentifier: 
+  m_DisplayName: Unity MARS Training Template
+  m_PackageName: com.unity.xr-content.template-training
+  m_Url: https://github.com/Unity-Technologies/com.unity.xr-content.template-training/raw/content-pack/upm-ci%7E/packages/com.unity.xr-content.template-training-1.0.0.tgz
+  m_InstallType: 2
+  m_Description: A pre-authored Unity scene, walkthrough system, and UI setup. This
+    template provides the resources needed to guide a user through a series of guided
+    steps in the world.
+  m_Category: templates
+  m_PreviewLabel: 
+  m_PreviewImage: {fileID: 2800000, guid: b6a6671e18b61d3489d1d02362454263, type: 3}
+  m_Version: 1.0.0
+  m_Created:
+    m_Ticks: 637625952000000000
+  m_Updated:
+    m_Ticks: 637625952000000000

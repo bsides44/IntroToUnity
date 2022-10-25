@@ -1,0 +1,36 @@
+{
+    "name": "Unity.MARS.Providers.HoloLens",
+    "rootNamespace": "",
+    "references": [
+        "Unity.MARS",
+        "Unity.MARS.Interfaces",
+        "Unity.XRTools.ModuleLoader.Interfaces",
+        "Unity.XRTools.Utils",
+        "Microsoft.MixedReality.OpenXR",
+        "Microsoft.MixedReality.SceneUnderstanding.Projections.WSA",
+        "Microsoft.MixedReality.SceneUnderstanding.Projections.Editor"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WSA"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.microsoft.mixedreality.openxr",
+            "expression": "",
+            "define": "INCLUDE_MSFT_MR_OPENXR"
+        },
+        {
+            "name": "com.microsoft.mixedreality.sceneunderstanding",
+            "expression": "",
+            "define": "INCLUDE_MSFT_MR_SCENEUNDERSTANDING"
+        }
+    ],
+    "noEngineReferences": false
+}

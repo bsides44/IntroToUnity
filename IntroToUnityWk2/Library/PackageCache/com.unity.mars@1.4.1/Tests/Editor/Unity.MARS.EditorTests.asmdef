@@ -1,0 +1,29 @@
+{
+    "name": "Unity.MARS.EditorTests",
+    "references": [
+        "Unity.MARS",
+        "Unity.MARS.Interfaces",
+        "Unity.XRTools.Utils",
+        "Unity.MARS.Tests",
+        "Unity.MARS.Editor",
+        "Unity.XRTools.Utils.Editor",
+        "Unity.XRTools.ModuleLoader.Interfaces",
+        "Unity.XRTools.ModuleLoader",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.0.0",
+            "define": "INCLUDE_RENDER_PIPELINES_UNIVERSAL"
+        }
+    ]
+}

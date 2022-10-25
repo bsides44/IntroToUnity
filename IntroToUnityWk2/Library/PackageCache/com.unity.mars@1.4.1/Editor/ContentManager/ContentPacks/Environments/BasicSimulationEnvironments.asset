@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36a03cc179e4d42a247ee25fcb5896, type: 3}
+  m_Name: BasicSimulationEnvironments
+  m_EditorClassIdentifier: 
+  m_DisplayName: Basic Simulation Environment Pack
+  m_PackageName: com.unity.xr-content.mars-sim-environments
+  m_Url: https://github.com/Unity-Technologies/com.unity.xr-content.mars-sim-environments/raw/content-pack/upm-ci%7E/packages/com.unity.xr-content.mars-sim-environments-1.0.0.tgz
+  m_InstallType: 2
+  m_Description: A collection of indoor and outdoor Simulation environments and modular
+    pieces to build your own. Simulation environments are prefabs that act as snapshots
+    of the real world in Unity MARS.
+  m_Category: environments
+  m_PreviewLabel: 
+  m_PreviewImage: {fileID: 2800000, guid: 8c53c7cf2982a0c48899f522fd0bac62, type: 3}
+  m_Version: 1.0.0
+  m_Created:
+    m_Ticks: 637625088000000000
+  m_Updated:
+    m_Ticks: 637625088000000000

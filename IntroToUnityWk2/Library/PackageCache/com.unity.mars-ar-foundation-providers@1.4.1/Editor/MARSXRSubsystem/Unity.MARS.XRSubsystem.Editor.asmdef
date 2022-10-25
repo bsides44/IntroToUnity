@@ -1,0 +1,71 @@
+{
+    "name": "Unity.MARS.XRSubsystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.Management",
+        "Unity.XR.Management.Editor",
+        "Unity.XR.ARSubsystems",
+        "Unity.XRTools.ModuleLoader",
+        "Unity.MARS.Interfaces",
+        "Unity.XRTools.Utils",
+        "Unity.XRTools.Utils.Editor",
+        "Unity.XRTools.ModuleLoader.Interfaces",
+        "Unity.MARS",
+        "Unity.MARS.Editor",
+        "Unity.MARS.XRSubsystem",
+        "Unity.XR.ARFoundation",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arsubsystems",
+            "expression": "3.0.0-preview.0",
+            "define": "ARSUBSYSTEMS_3_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.arsubsystems",
+            "expression": "4.0.0-preview.0",
+            "define": "ARSUBSYSTEMS_4_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.management",
+            "expression": "3.2",
+            "define": "XRMANAGEMENT_3_2_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.arsubsystems",
+            "expression": "2.1",
+            "define": "ARSUBSYSTEMS_2_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "7.0.0",
+            "define": "MODULE_URP_ENABLED"
+        },
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "2.1",
+            "define": "ARFOUNDATION_2_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "3.0.1",
+            "define": "ARFOUNDATION_3_0_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "5.0.0-pre.0",
+            "define": "ARFOUNDATION_5_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}
